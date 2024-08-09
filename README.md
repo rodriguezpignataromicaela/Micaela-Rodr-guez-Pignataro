@@ -1,2 +1,2 @@
-# Micaela-Rodr-guez-Pignataro
+# Micaela-Rodriguez-Pignataro
 Estudiante de desarrollo web
